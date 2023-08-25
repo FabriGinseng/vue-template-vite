@@ -1,4 +1,4 @@
-# GUI Trespassing 2.0
+# Starter template with vue+vite+ Element ui
 
 ## Customize configuration
 
